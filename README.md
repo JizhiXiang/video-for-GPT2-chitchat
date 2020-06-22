@@ -1,6 +1,6 @@
 # 视频讲解
 <br>
-链接 https://space.bilibili.com/51723516
+链接 https://www.bilibili.com/video/BV1La4y1Y7ug
 
 ## 说明
 该项目拷贝于https://github.com/yangjianxin1/GPT2-chitchat
